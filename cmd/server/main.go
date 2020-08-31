@@ -30,7 +30,7 @@ func main() {
 	cmd.Init()
 
 	// Pubsub
-	startPublisher()
+	// startPublisher()
 	startPublisherToKafka()
 
 	// Create service

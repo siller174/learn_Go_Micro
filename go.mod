@@ -12,7 +12,7 @@ require (
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/micro/go-micro/v3 v3.0.0-alpha.0.20200812115214-1fa3ac5599eb
 	github.com/micro/go-plugins/broker/kafka v0.0.0-20200119172437-4fe21aa238fd
-	github.com/micro/go-plugins/broker/kafka/v2 v2.9.1 // indirect
+	github.com/micro/go-plugins/broker/kafka/v2 v2.9.1
 	github.com/micro/micro v1.18.0
 	github.com/micro/micro/v3 v3.0.0-beta
 	github.com/sirupsen/logrus v1.4.2
